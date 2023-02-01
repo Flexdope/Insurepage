@@ -1,0 +1,27 @@
+.bi {
+    font-size: 3rem;
+ }
+.bi-list {
+    color: rgba(8, 108, 202, 0.872);
+}
+.hero {
+    text-align: center;
+}
+.slides {
+    width: 270px;
+    height: 250px;
+    flex: none;
+}
+.outflow {
+    overflow-x: scroll;
+}
+.scrollbody {
+    scrollbar-width: none;
+    -ms-text-overflow: none;
+}
+
+.scrollbody::-webkit-scrollbar {
+    display:none;
+
+}
+
